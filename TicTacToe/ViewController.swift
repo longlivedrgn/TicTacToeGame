@@ -52,6 +52,8 @@ class ViewController: UIViewController {
     }
     
     func initBoard(){
+        
+        
         board.append(a1)
         board.append(a2)
         board.append(a3)
